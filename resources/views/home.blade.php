@@ -50,10 +50,16 @@
         <div>
             <h2 class="text-sm font-semibold text-gray-700 uppercase mb-2">Aprendiendo</h2>
             <div class="flex justify-center md:justify-start gap-5">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" class="w-10 h-10">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" class="w-10 h-10">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" class="w-10 h-10">
-            </div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" 
+         alt="Laravel Logo" class="w-10 h-10">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+         alt="Python Logo" class="w-10 h-10">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+         alt="JavaScript Logo" class="w-10 h-10">
+</div>
+
+
+
         </div>
     </div>
 
